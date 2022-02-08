@@ -1,0 +1,49 @@
+body{
+	
+}
+:root{
+	--color-negro:#fffff;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+
+	
+}
+
+header{
+	background-color: #212020;
+	color: aliceblue
+	
+		
+}
+
+
+
+#refi{
+	text-align: center;
+	padding: 10% 0;
+}
+
+#info{
+	background-color: #A7A7A7;
+	color: #F9F9F9;
+	font-size: 13px;
+	
+}
+
+#info2{
+	background-color: #fff;
+	color: #403F3F
+}
+
+
+footer{
+	background-color: #393737;
+	color: #898989;
+	padding: 30px 0;
+	text-align: center;
+	font-size: 13px;
+}
+
+
+
